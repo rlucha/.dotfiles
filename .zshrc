@@ -3,7 +3,6 @@ source ~/antigen/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle git
-antigen bundle osx
 antigen bundle z
 antigen bundle lukechilds/zsh-nvm
 antigen bundle paulirish/git-open
